@@ -1,3 +1,8 @@
 {
-    "CSSBuy": {}
+    "CSSBuy": {
+        "Camisa Teste": {
+            "quantidade": 4,
+            "fornecedor": "Fornecedor t este"
+        }
+    }
 }
