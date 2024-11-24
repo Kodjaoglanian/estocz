@@ -1,1 +1,6 @@
-{}
+{
+    "teste": {
+        "quantidade": 1,
+        "fornecedor": "teste"
+    }
+}
