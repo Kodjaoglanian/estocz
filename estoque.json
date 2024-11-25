@@ -1,6 +1,12 @@
 {
     "98a8ef8e-cd7e-4382-a236-618856b13ae8": {
         "nome": "CSS Buy",
-        "itens": {}
+        "itens": {
+            "799acd1d-f351-4d35-bb3d-07d3312b6890": {
+                "nome": "Item teste",
+                "quantidade": 1,
+                "fornecedor": "fornecedor camisa"
+            }
+        }
     }
 }
