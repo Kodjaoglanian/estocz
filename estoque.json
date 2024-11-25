@@ -1,13 +1,1 @@
-{
-    "493efb9d-dfa5-40f9-b8cd-79dd167c95fc": {
-        "nome": "CSS Buy",
-        "itens": {
-            "00001": {
-                "id": "00001",
-                "nome": "Item teste",
-                "quantidade": 1,
-                "fornecedor": "00001"
-            }
-        }
-    }
-}
+{}
