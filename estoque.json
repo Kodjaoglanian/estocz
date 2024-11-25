@@ -1,13 +1,1 @@
-{
-    "b179b1b7-e4e4-497c-9f69-110d85591a9a": {
-        "nome": "CSS Buy",
-        "itens": {
-            "ed3cd494-54e3-483f-8f4c-97a448c38921": {
-                "id": "ed3cd494-54e3-483f-8f4c-97a448c38921",
-                "nome": "teste",
-                "quantidade": 1,
-                "fornecedor": "a1c0bd07-96d6-4fe7-83db-bd53735bdcc3"
-            }
-        }
-    }
-}
+{}
