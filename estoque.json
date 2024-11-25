@@ -1,6 +1,14 @@
 {
     "00001": {
         "nome": "CSS Buy",
-        "itens": {}
+        "itens": {
+            "00001": {
+                "id": "00001",
+                "nome": "Camiseta branca",
+                "quantidade": 15,
+                "fornecedor": "00001",
+                "valor_unitario": 15.0
+            }
+        }
     }
 }
