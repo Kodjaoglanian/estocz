@@ -7,7 +7,7 @@
         "valor_total": 1900.0,
         "informacoes_gerais": "teste",
         "data_pedido": "24/11/2024",
-        "status": "Enviado",
+        "status": "Entregue",
         "fornecedores": "CSS Fornecedor"
     }
 }
