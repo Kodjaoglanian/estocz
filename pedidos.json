@@ -1,1 +1,16 @@
-{}
+{
+    "P00001": {
+        "id": "P00001",
+        "itens_vendidos": [
+            {
+                "id": "00002",
+                "quantidade": 1
+            }
+        ],
+        "valor_total": 1900.0,
+        "informacoes_gerais": "teste",
+        "data_pedido": "24/11/2024",
+        "status": "Entrada",
+        "fornecedores": "CSS Fornecedor"
+    }
+}
