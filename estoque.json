@@ -1,6 +1,13 @@
 {
     "00001": {
         "nome": "CSS Buy",
-        "itens": {}
+        "itens": {
+            "00001": {
+                "id": "00001",
+                "nome": "testte",
+                "quantidade": 1,
+                "fornecedor": "00001"
+            }
+        }
     }
 }
