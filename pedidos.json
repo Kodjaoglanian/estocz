@@ -12,5 +12,12 @@
         "valor_total": 19000.0,
         "informacoes_gerais": "pedido de teste",
         "status": "Entrada"
+    },
+    "P00003": {
+        "id": "P00003",
+        "itens_vendidos": [],
+        "valor_total": 19000.0,
+        "informacoes_gerais": "pedido de teste",
+        "status": "Entrada"
     }
 }
