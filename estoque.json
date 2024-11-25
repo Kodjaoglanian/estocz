@@ -11,7 +11,7 @@
             "00002": {
                 "id": "00002",
                 "nome": "teste dois",
-                "quantidade": 3,
+                "quantidade": 2,
                 "fornecedor": "00001"
             }
         }
