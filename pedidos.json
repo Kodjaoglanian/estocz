@@ -1,1 +1,14 @@
-{}
+[
+    {
+        "id": "00001",
+        "itens_vendidos": [
+            {
+                "id": "00002",
+                "quantidade": 1
+            }
+        ],
+        "valor_total": 34.0,
+        "informacoes_gerais": "camisa preta",
+        "data_pedido": "28/11/2024"
+    }
+]
