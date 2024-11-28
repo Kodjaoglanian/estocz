@@ -3,24 +3,12 @@
         "id": "00001",
         "itens_vendidos": [
             {
-                "id": "00002",
-                "quantidade": 1
-            }
-        ],
-        "valor_total": 34.0,
-        "informacoes_gerais": "camisa preta",
-        "data_pedido": "28/11/2024"
-    },
-    {
-        "id": "00002",
-        "itens_vendidos": [
-            {
                 "id": "00001",
-                "quantidade": 2
+                "quantidade": 3
             }
         ],
-        "valor_total": 40.0,
-        "informacoes_gerais": "camisa branca",
+        "valor_total": 60.0,
+        "informacoes_gerais": "branca",
         "data_pedido": "28/11/2024"
     }
 ]
