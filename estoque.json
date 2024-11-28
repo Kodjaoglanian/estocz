@@ -8,6 +8,13 @@
                 "quantidade": 15,
                 "fornecedor": "00001",
                 "valor_unitario": 20.0
+            },
+            "00002": {
+                "id": "00002",
+                "nome": "Camisa preta",
+                "quantidade": 2,
+                "fornecedor": "00001",
+                "valor_unitario": 34.0
             }
         }
     }
