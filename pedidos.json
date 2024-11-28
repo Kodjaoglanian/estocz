@@ -1,16 +1,1 @@
-{
-    "P00001": {
-        "id": "P00001",
-        "itens_vendidos": [
-            {
-                "id": "00001",
-                "quantidade": 3
-            }
-        ],
-        "valor_total": 60.0,
-        "informacoes_gerais": "Camisas Brancas",
-        "data_pedido": "28/11/2024",
-        "status": "Entrada",
-        "fornecedores": "CSS Fornecedor"
-    }
-}
+{}
