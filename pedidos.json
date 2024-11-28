@@ -10,5 +10,17 @@
         "valor_total": 60.0,
         "informacoes_gerais": "branca",
         "data_pedido": "28/11/2024"
+    },
+    {
+        "id": "00002",
+        "itens_vendidos": [
+            {
+                "id": "00001",
+                "quantidade": 2
+            }
+        ],
+        "valor_total": 40.0,
+        "informacoes_gerais": "branca",
+        "data_pedido": "28/11/2024"
     }
 ]
