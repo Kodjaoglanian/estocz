@@ -5,7 +5,7 @@
             "00001": {
                 "id": "00001",
                 "nome": "Camiseta branca",
-                "quantidade": 12,
+                "quantidade": 10,
                 "fornecedor": "00001",
                 "valor_unitario": 20.0
             },
